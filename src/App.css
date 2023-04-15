@@ -1,9 +1,19 @@
 .App {
-  max-width: 600px;
+  max-width: 650px;
   margin: 30px auto;
+  font-family: sans-serif;
 }
 
 .App footer {
   font-size: 11px;
   margin: 10px 0;
+  font-weight: 100;
+}
+
+.App .author {
+  font-size: 11px;
+}
+
+.App .freepik-ref {
+  font-size: 11px;
 }
